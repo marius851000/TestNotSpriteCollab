@@ -1,2086 +1,2180 @@
 {
-  "0000": {
-    "canon": true,
-    "modreward": false,
-    "name": "Duskako",
-    "portrait_bounty": {},
-    "portrait_complete": 2,
-    "portrait_credit": {
-      "primary": "<@!356635814668664832>",
-      "secondary": [
-        "<@!300803467637817354>"
-      ],
-      "total": 2
-    },
-    "portrait_files": {
-      "Inspired": false,
-      "Crying": false,
-      "Stunned": false,
-      "Pain": false,
-      "Joyous": false,
-      "Teary-Eyed": false,
-      "Surprised": false,
-      "Sad": false,
-      "Happy": false,
-      "Angry": false,
-      "Shouting": false,
-      "Normal": false,
-      "Determined": false,
-      "Sigh": false,
-      "Special0": false,
-      "Worried": false,
-      "Dizzy": false
-    },
-    "portrait_link": "https://cdn.discordapp.com/attachments/956851508828307486/956855018705801266/portrait-0000.png",
-    "portrait_modified": "2022-03-25 09:29:04.875698",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 2,
-    "sprite_credit": {
-      "primary": "<@!356635814668664832>",
-      "secondary": [],
-      "total": 1
-    },
-    "sprite_files": {
-      "Walk": false,
-      "Attack": false,
-      "QuickStrike": false,
-      "Shoot": false,
-      "Hover": false,
-      "Sleep": false,
-      "Hurt": false,
-      "Idle": false,
-      "Swing": false,
-      "Double": false,
-      "Hop": false,
-      "Charge": false,
-      "Rotate": false,
-      "EventSleep": false,
-      "Wake": false,
-      "Eat": false,
-      "Tumble": false,
-      "Pose": false,
-      "Pull": false,
-      "Pain": false,
-      "Float": false,
-      "DeepBreath": false,
-      "Nod": false,
-      "Sit": false,
-      "LookUp": false,
-      "Sink": false,
-      "Trip": false,
-      "Laying": false,
-      "LeapForth": false,
-      "Head": false,
-      "Cringe": false,
-      "LostBalance": false,
-      "TumbleBack": false,
-      "Faint": false,
-      "HitGround": false
-    },
-    "sprite_link": "https://cdn.discordapp.com/attachments/956851508828307486/956870226685874186/sprite-0000.zip",
-    "sprite_modified": "2022-03-25 09:29:04.889717",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
+  "pokemon": {
+    "0000": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
           "primary": "",
-          "secondary": [],
-          "total": 0
+          "secondary": [
+            "<@!356635814668664832>",
+            "<@!300803467637817354>"
+          ],
+          "total": 2
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
+        "link": "",
+        "files": {
+          "Angry": false,
+          "Crying": false,
+          "Determined": false,
+          "Dizzy": false,
+          "Happy": false,
+          "Inspired": false,
+          "Joyous": false,
+          "Normal": false,
+          "Pain": false,
+          "Sad": false,
+          "Shouting": false,
+          "Sigh": false,
+          "Special0": false,
+          "Stunned": false,
+          "Surprised": false,
+          "Teary-Eyed": false,
+          "Worried": false
         },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0001": {
-    "canon": true,
-    "modreward": false,
-    "name": "Sans",
-    "portrait_bounty": {},
-    "portrait_complete": 2,
-    "portrait_credit": {
-      "primary": "<@!170593611329699850>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Special3": false,
-      "Inspired": false,
-      "Special2^": false,
-      "Crying": false,
-      "Stunned": false,
-      "Pain": false,
-      "Special1": false,
-      "Special0^": false,
-      "Joyous": false,
-      "Teary-Eyed": false,
-      "Surprised": false,
-      "Sad": false,
-      "Happy": false,
-      "Angry": false,
-      "Special2": false,
-      "Special3^": false,
-      "Shouting": false,
-      "Normal": false,
-      "Determined": false,
-      "Sigh": false,
-      "Special0": false,
-      "Worried": false,
-      "Dizzy": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.876699",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/954229921461444628/sprite-0001.zip",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": false,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0002": {
-    "canon": true,
-    "modreward": false,
-    "name": "Chocobo",
-    "portrait_bounty": {},
-    "portrait_complete": 2,
-    "portrait_credit": {
-      "primary": "<@!356635814668664832>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Inspired": false,
-      "Crying": false,
-      "Stunned": false,
-      "Pain": false,
-      "Joyous": false,
-      "Teary-Eyed": false,
-      "Surprised": false,
-      "Sad": false,
-      "Happy": false,
-      "Angry": false,
-      "Shouting": false,
-      "Normal": false,
-      "Determined": false,
-      "Sigh": false,
-      "Worried": false,
-      "Dizzy": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.877701",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/956210942092394526/sprite-0002.zip",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0003": {
-    "canon": true,
-    "modreward": false,
-    "name": "Nyancat",
-    "portrait_bounty": {},
-    "portrait_complete": 2,
-    "portrait_credit": {
-      "primary": "<@!724070439051329616>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Inspired": false,
-      "Crying": false,
-      "Stunned": false,
-      "Pain": false,
-      "Joyous": false,
-      "Teary-Eyed": false,
-      "Surprised": false,
-      "Sad": false,
-      "Happy": false,
-      "Angry": false,
-      "Shouting": false,
-      "Normal": false,
-      "Determined": false,
-      "Sigh": false,
-      "Worried": false,
-      "Dizzy": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.877701",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/954230020166025236/sprite-0003.zip",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0004": {
-    "canon": true,
-    "modreward": false,
-    "name": "Kyle_Broflovski",
-    "portrait_bounty": {},
-    "portrait_complete": 2,
-    "portrait_credit": {
-      "primary": "<@!672586621459365888>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Inspired": false,
-      "Crying": false,
-      "Stunned": false,
-      "Pain": false,
-      "Joyous": false,
-      "Teary-Eyed": false,
-      "Surprised": false,
-      "Sad": false,
-      "Happy": false,
-      "Angry": false,
-      "Shouting": false,
-      "Normal": false,
-      "Determined": false,
-      "Sigh": false,
-      "Worried": false,
-      "Dizzy": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.878702",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0005": {
-    "canon": true,
-    "modreward": false,
-    "name": "Smiley",
-    "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": {
-      "primary": "<@!350050109741858829>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Special3": false,
-      "Crying": false,
-      "Stunned": false,
-      "Pain": false,
-      "Special1": false,
-      "Joyous": false,
-      "Teary-Eyed": false,
-      "Surprised": false,
-      "Sad": false,
-      "Happy": false,
-      "Angry": false,
-      "Special2": false,
-      "Shouting": false,
-      "Normal": false,
-      "Determined": false,
-      "Sigh": false,
-      "Special0": false,
-      "Worried": false,
-      "Dizzy": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.879703",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0006": {
-    "canon": true,
-    "modreward": false,
-    "name": "Miko_Dai_Hozon",
-    "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": {
-      "primary": "<@!935570344054513734>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Angry": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.879703",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0007": {
-    "canon": true,
-    "modreward": false,
-    "name": "Feraligatr_Pirate",
-    "portrait_bounty": {},
-    "portrait_complete": 2,
-    "portrait_credit": {
-      "primary": "<@!276369635304275968>",
-      "secondary": [
-        "<@!217899432652308480>"
-      ],
-      "total": 2
-    },
-    "portrait_files": {
-      "Sad^": false,
-      "Inspired": false,
-      "Crying": false,
-      "Stunned": false,
-      "Pain": false,
-      "Happy^": false,
-      "Joyous^": false,
-      "Dizzy^": false,
-      "Worried^": false,
-      "Pain^": false,
-      "Joyous": false,
-      "Teary-Eyed": false,
-      "Shouting^": false,
-      "Normal^": false,
-      "Surprised": false,
-      "Surprised^": false,
-      "Sad": false,
-      "Happy": false,
-      "Angry": false,
-      "Sigh^": false,
-      "Shouting": false,
-      "Normal": false,
-      "Determined": false,
-      "Crying^": false,
-      "Inspired^": false,
-      "Determined^": false,
-      "Sigh": false,
-      "Stunned^": false,
-      "Worried": false,
-      "Angry^": false,
-      "Dizzy": false,
-      "Teary-Eyed^": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.881706",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 1,
-    "sprite_credit": {
-      "primary": "<@!276369635304275968>",
-      "secondary": [],
-      "total": 1
-    },
-    "sprite_files": {
-      "Walk": false,
-      "Attack": false,
-      "Strike": false,
-      "Shoot": false,
-      "Twirl": false,
-      "Sleep": false,
-      "Hurt": false,
-      "Idle": false,
-      "Swing": false,
-      "Double": false,
-      "Hop": false,
-      "Charge": false,
-      "Rotate": false
-    },
-    "sprite_link": "",
-    "sprite_modified": "2022-03-25 09:29:04.893723",
-    "sprite_pending": {},
-    "sprite_recolor_link": "https://cdn.discordapp.com/attachments/899668565077139486/954314967300079677/sprite_recolor-0007-0000-0001.png",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0008": {
-    "canon": true,
-    "modreward": false,
-    "name": "Mr_Saturn",
-    "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": {
-      "primary": "<@!702275233125630042>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Normal": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.881706",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0009": {
-    "canon": true,
-    "modreward": false,
-    "name": "Kitsunoh",
-    "portrait_bounty": {},
-    "portrait_complete": 2,
-    "portrait_credit": {
-      "primary": "<@!801938240562397194>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Special3": false,
-      "Inspired": false,
-      "Crying": false,
-      "Stunned": false,
-      "Pain": false,
-      "Special1": false,
-      "Joyous": false,
-      "Teary-Eyed": false,
-      "Surprised": false,
-      "Sad": false,
-      "Happy": false,
-      "Angry": false,
-      "Special2": false,
-      "Shouting": false,
-      "Normal": false,
-      "Determined": false,
-      "Sigh": false,
-      "Special0": false,
-      "Worried": false,
-      "Dizzy": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.881706",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/954485948350074920/sprite-0009.zip",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0010": {
-    "canon": true,
-    "modreward": false,
-    "name": "Nohface",
-    "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": {
-      "primary": "<@!801938240562397194>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Normal": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.882708",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0011": {
-    "canon": true,
-    "modreward": false,
-    "name": "Rebble",
-    "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": {
-      "primary": "<@!801938240562397194>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Normal": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.882708",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0012": {
-    "canon": true,
-    "modreward": false,
-    "name": "Tactite",
-    "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": {
-      "primary": "<@!801938240562397194>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Normal": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.882708",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0013": {
-    "canon": true,
-    "modreward": false,
-    "name": "Stratagem",
-    "portrait_bounty": {},
-    "portrait_complete": 2,
-    "portrait_credit": {
-      "primary": "<@!801938240562397194>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Special3": false,
-      "Inspired": false,
-      "Crying": false,
-      "Stunned": false,
-      "Pain": false,
-      "Joyous": false,
-      "Teary-Eyed": false,
-      "Surprised": false,
-      "Sad": false,
-      "Happy": false,
-      "Angry": false,
-      "Shouting": false,
-      "Normal": false,
-      "Determined": false,
-      "Sigh": false,
-      "Worried": false,
-      "Dizzy": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.882708",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "https://cdn.discordapp.com/attachments/899668565077139486/954486877535215676/sprite-0013.zip",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0014": {
-    "canon": true,
-    "modreward": false,
-    "name": "Slime_Dragon_Quest",
-    "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": {
-      "primary": "<@!702275233125630042>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Surprised": false,
-      "Normal": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.883709",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0015": {
-    "canon": true,
-    "modreward": false,
-    "name": "Riolu_Dothack_Tsukasa",
-    "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": {
-      "primary": "<@!329980673895038976>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Normal": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.883709",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0016": {
-    "canon": true,
-    "modreward": false,
-    "name": "Voodoom",
-    "portrait_bounty": {},
-    "portrait_complete": 1,
-    "portrait_credit": {
-      "primary": "<@!801938240562397194>",
-      "secondary": [],
-      "total": 1
-    },
-    "portrait_files": {
-      "Pain": false,
-      "Happy": false,
-      "Normal": false
-    },
-    "portrait_link": "",
-    "portrait_modified": "2022-03-25 09:29:04.883709",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
-      }
-    }
-  },
-  "0017": {
-    "canon": true,
-    "modreward": false,
-    "name": "Test",
-    "portrait_bounty": {},
-    "portrait_complete": 0,
-    "portrait_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "portrait_files": {},
-    "portrait_link": "",
-    "portrait_modified": "",
-    "portrait_pending": {},
-    "portrait_recolor_link": "",
-    "portrait_required": true,
-    "sprite_bounty": {},
-    "sprite_complete": 0,
-    "sprite_credit": {
-      "primary": "",
-      "secondary": [],
-      "total": 0
-    },
-    "sprite_files": {},
-    "sprite_link": "",
-    "sprite_modified": "",
-    "sprite_pending": {},
-    "sprite_recolor_link": "",
-    "sprite_required": true,
-    "subgroups": {
-      "0000": {
-        "canon": true,
-        "modreward": false,
-        "name": "",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": false,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
-        },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": false,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
-              "primary": "",
-              "secondary": [],
-              "total": 0
-            },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
-          }
-        }
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.875698",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
       },
-      "0001": {
-        "canon": true,
-        "modreward": false,
-        "name": "Test",
-        "portrait_bounty": {},
-        "portrait_complete": 0,
-        "portrait_credit": {
+      "res_sprite": {
+        "complete": 0,
+        "credit": {
           "primary": "",
-          "secondary": [],
-          "total": 0
+          "secondary": [
+            "<@!356635814668664832>"
+          ],
+          "total": 1
         },
-        "portrait_files": {},
-        "portrait_link": "",
-        "portrait_modified": "",
-        "portrait_pending": {},
-        "portrait_recolor_link": "",
-        "portrait_required": true,
-        "sprite_bounty": {},
-        "sprite_complete": 0,
-        "sprite_credit": {
-          "primary": "",
-          "secondary": [],
-          "total": 0
+        "link": "",
+        "files": {
+          "Walk": false,
+          "Attack": false,
+          "QuickStrike": false,
+          "Shoot": false,
+          "Hover": false,
+          "Sleep": false,
+          "Hurt": false,
+          "Idle": false,
+          "Swing": false,
+          "Double": false,
+          "Hop": false,
+          "Charge": false,
+          "Rotate": false,
+          "EventSleep": false,
+          "Wake": false,
+          "Eat": false,
+          "Tumble": false,
+          "Pose": false,
+          "Pull": false,
+          "Pain": false,
+          "Float": false,
+          "DeepBreath": false,
+          "Nod": false,
+          "Sit": false,
+          "LookUp": false,
+          "Sink": false,
+          "Trip": false,
+          "Laying": false,
+          "LeapForth": false,
+          "Head": false,
+          "Cringe": false,
+          "LostBalance": false,
+          "TumbleBack": false,
+          "Faint": false,
+          "HitGround": false
         },
-        "sprite_files": {},
-        "sprite_link": "",
-        "sprite_modified": "",
-        "sprite_pending": {},
-        "sprite_recolor_link": "",
-        "sprite_required": true,
-        "subgroups": {
-          "0001": {
-            "canon": true,
-            "modreward": false,
-            "name": "Shiny",
-            "portrait_bounty": {},
-            "portrait_complete": 0,
-            "portrait_credit": {
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.889717",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
               "primary": "",
               "secondary": [],
               "total": 0
             },
-            "portrait_files": {},
-            "portrait_link": "",
-            "portrait_modified": "",
-            "portrait_pending": {},
-            "portrait_recolor_link": "",
-            "portrait_required": true,
-            "sprite_bounty": {},
-            "sprite_complete": 0,
-            "sprite_credit": {
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
               "primary": "",
               "secondary": [],
               "total": 0
             },
-            "sprite_files": {},
-            "sprite_link": "",
-            "sprite_modified": "",
-            "sprite_pending": {},
-            "sprite_recolor_link": "",
-            "sprite_required": true,
-            "subgroups": {}
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0001": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!170593611329699850>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Angry": false,
+          "Crying": false,
+          "Determined": false,
+          "Dizzy": false,
+          "Happy": false,
+          "Inspired": false,
+          "Joyous": false,
+          "Normal": false,
+          "Pain": false,
+          "Sad": false,
+          "Shouting": false,
+          "Sigh": false,
+          "Special0": false,
+          "Special0^": false,
+          "Special1": false,
+          "Special2": false,
+          "Special2^": false,
+          "Special3": false,
+          "Special3^": false,
+          "Stunned": false,
+          "Surprised": false,
+          "Teary-Eyed": false,
+          "Worried": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.876699",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "https://cdn.discordapp.com/attachments/899668565077139486/954229921461444628/sprite-0001.zip",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": false
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0002": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!356635814668664832>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Angry": false,
+          "Crying": false,
+          "Determined": false,
+          "Dizzy": false,
+          "Happy": false,
+          "Inspired": false,
+          "Joyous": false,
+          "Normal": false,
+          "Pain": false,
+          "Sad": false,
+          "Shouting": false,
+          "Sigh": false,
+          "Stunned": false,
+          "Surprised": false,
+          "Teary-Eyed": false,
+          "Worried": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.877701",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "https://cdn.discordapp.com/attachments/899668565077139486/956210942092394526/sprite-0002.zip",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0003": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!724070439051329616>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Angry": false,
+          "Crying": false,
+          "Determined": false,
+          "Dizzy": false,
+          "Happy": false,
+          "Inspired": false,
+          "Joyous": false,
+          "Normal": false,
+          "Pain": false,
+          "Sad": false,
+          "Shouting": false,
+          "Sigh": false,
+          "Stunned": false,
+          "Surprised": false,
+          "Teary-Eyed": false,
+          "Worried": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.877701",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "https://cdn.discordapp.com/attachments/899668565077139486/954230020166025236/sprite-0003.zip",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0004": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!672586621459365888>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Angry": false,
+          "Crying": false,
+          "Determined": false,
+          "Dizzy": false,
+          "Happy": false,
+          "Inspired": false,
+          "Joyous": false,
+          "Normal": false,
+          "Pain": false,
+          "Sad": false,
+          "Shouting": false,
+          "Sigh": false,
+          "Stunned": false,
+          "Surprised": false,
+          "Teary-Eyed": false,
+          "Worried": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.878702",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0005": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!350050109741858829>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Angry": false,
+          "Crying": false,
+          "Determined": false,
+          "Dizzy": false,
+          "Happy": false,
+          "Joyous": false,
+          "Normal": false,
+          "Pain": false,
+          "Sad": false,
+          "Shouting": false,
+          "Sigh": false,
+          "Special0": false,
+          "Special1": false,
+          "Special2": false,
+          "Special3": false,
+          "Stunned": false,
+          "Surprised": false,
+          "Teary-Eyed": false,
+          "Worried": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.879703",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0006": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!935570344054513734>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Angry": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.879703",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0007": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!276369635304275968>",
+            "<@!217899432652308480>"
+          ],
+          "total": 2
+        },
+        "link": "",
+        "files": {
+          "Angry": false,
+          "Angry^": false,
+          "Crying": false,
+          "Crying^": false,
+          "Determined": false,
+          "Determined^": false,
+          "Dizzy": false,
+          "Dizzy^": false,
+          "Happy": false,
+          "Happy^": false,
+          "Inspired": false,
+          "Inspired^": false,
+          "Joyous": false,
+          "Joyous^": false,
+          "Normal": false,
+          "Normal^": false,
+          "Pain": false,
+          "Pain^": false,
+          "Sad": false,
+          "Sad^": false,
+          "Shouting": false,
+          "Shouting^": false,
+          "Sigh": false,
+          "Sigh^": false,
+          "Stunned": false,
+          "Stunned^": false,
+          "Surprised": false,
+          "Surprised^": false,
+          "Teary-Eyed": false,
+          "Teary-Eyed^": false,
+          "Worried": false,
+          "Worried^": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.881706",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!276369635304275968>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Walk": false,
+          "Attack": false,
+          "Strike": false,
+          "Shoot": false,
+          "Twirl": false,
+          "Sleep": false,
+          "Hurt": false,
+          "Idle": false,
+          "Swing": false,
+          "Double": false,
+          "Hop": false,
+          "Charge": false,
+          "Rotate": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.893723",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0008": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!702275233125630042>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Normal": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.881706",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0009": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!801938240562397194>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Angry": false,
+          "Crying": false,
+          "Determined": false,
+          "Dizzy": false,
+          "Happy": false,
+          "Inspired": false,
+          "Joyous": false,
+          "Normal": false,
+          "Pain": false,
+          "Sad": false,
+          "Shouting": false,
+          "Sigh": false,
+          "Special0": false,
+          "Special1": false,
+          "Special2": false,
+          "Special3": false,
+          "Stunned": false,
+          "Surprised": false,
+          "Teary-Eyed": false,
+          "Worried": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.881706",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "https://cdn.discordapp.com/attachments/899668565077139486/954485948350074920/sprite-0009.zip",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0010": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!801938240562397194>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Normal": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.882708",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0011": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!801938240562397194>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Normal": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.882708",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0012": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!801938240562397194>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Normal": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.882708",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0013": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!801938240562397194>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Angry": false,
+          "Crying": false,
+          "Determined": false,
+          "Dizzy": false,
+          "Happy": false,
+          "Inspired": false,
+          "Joyous": false,
+          "Normal": false,
+          "Pain": false,
+          "Sad": false,
+          "Shouting": false,
+          "Sigh": false,
+          "Special3": false,
+          "Stunned": false,
+          "Surprised": false,
+          "Teary-Eyed": false,
+          "Worried": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.882708",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "https://cdn.discordapp.com/attachments/899668565077139486/954486877535215676/sprite-0013.zip",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0014": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!702275233125630042>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Normal": false,
+          "Surprised": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.883709",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0015": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!329980673895038976>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Normal": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.883709",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0016": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [
+            "<@!801938240562397194>"
+          ],
+          "total": 1
+        },
+        "link": "",
+        "files": {
+          "Happy": false,
+          "Normal": false,
+          "Pain": false
+        },
+        "bounty": {},
+        "modified": "2022-03-25 09:29:04.883709",
+        "pending": "",
+        "recolor_link": "",
+        "required": false
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        }
+      }
+    },
+    "0017": {
+      "res_portrait": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "res_sprite": {
+        "bounty": {},
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 0
+        },
+        "files": {},
+        "link": "",
+        "modified": "",
+        "pending": {},
+        "recolor_link": "",
+        "required": true
+      },
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": false
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
+          }
+        },
+        "0001": {
+          "res_portrait": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": true
+          },
+          "res_sprite": {
+            "bounty": {},
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 0
+            },
+            "files": {},
+            "link": "",
+            "modified": "",
+            "pending": {},
+            "recolor_link": "",
+            "required": true
+          },
+          "subgroups": {
+            "0001": {
+              "res_portrait": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "res_sprite": {
+                "bounty": {},
+                "complete": 0,
+                "credit": {
+                  "primary": "",
+                  "secondary": [],
+                  "total": 0
+                },
+                "files": {},
+                "link": "",
+                "modified": "",
+                "pending": {},
+                "recolor_link": "",
+                "required": true
+              },
+              "subgroups": {}
+            }
           }
         }
       }
