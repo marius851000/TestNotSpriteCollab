@@ -2127,6 +2127,79 @@
           }
         }
       }
+    },
+    "0017": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 1
+        },
+        "link": "",
+        "files": {},
+        "bounty": {},
+        "modified": "",
+        "pending": {},
+        "required": false,
+        "link_derive": ""
+      },
+      "res_sprite": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 1
+        },
+        "link": "",
+        "files": {},
+        "bounty": {},
+        "modified": "",
+        "pending": {},
+        "required": false,
+        "link_derive": ""
+      },
+      "canon": true,
+      "modreward": {},
+      "name": "Test",
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 1
+            },
+            "link": "",
+            "files": {},
+            "bounty": {},
+            "modified": "",
+            "pending": {},
+            "required": false,
+            "link_derive": ""
+          },
+          "res_sprite": {
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 1
+            },
+            "link": "",
+            "files": {},
+            "bounty": {},
+            "modified": "",
+            "pending": {},
+            "required": false,
+            "link_derive": ""
+          },
+          "canon": true,
+          "modreward": {},
+          "name": "Test",
+          "subgroups": {}
+        }
+      }
     }
   }
 }
