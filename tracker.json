@@ -34,7 +34,7 @@
         "modified": "2022-02-27 19:39:03.999799",
         "pending": {},
         "required": true,
-        "link_derive": ""
+        "link_derive": "https://cdn.discordapp.com/attachments/956851508828307486/957688274774790184/portrait-0000-0000-0001.png"
       },
       "res_sprite": {
         "bounty": {},
@@ -85,7 +85,7 @@
         "modified": "2022-02-27 19:47:44.739786",
         "pending": {},
         "required": true,
-        "link_derive": ""
+        "link_derive": "https://cdn.discordapp.com/attachments/956851508828307486/957688326826119198/sprite-0000-0000-0001.png"
       },
       "canon": true,
       "modreward": false,
