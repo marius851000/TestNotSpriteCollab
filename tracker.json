@@ -2200,6 +2200,79 @@
           "subgroups": {}
         }
       }
+    },
+    "0018": {
+      "res_portrait": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 1
+        },
+        "link": "",
+        "files": {},
+        "bounty": {},
+        "modified": "",
+        "pending": {},
+        "required": true,
+        "link_derive": ""
+      },
+      "res_sprite": {
+        "complete": 0,
+        "credit": {
+          "primary": "",
+          "secondary": [],
+          "total": 1
+        },
+        "link": "",
+        "files": {},
+        "bounty": {},
+        "modified": "",
+        "pending": {},
+        "required": true,
+        "link_derive": ""
+      },
+      "canon": true,
+      "modreward": {},
+      "name": "Test2",
+      "subgroups": {
+        "0000": {
+          "res_portrait": {
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 1
+            },
+            "link": "",
+            "files": {},
+            "bounty": {},
+            "modified": "",
+            "pending": {},
+            "required": true,
+            "link_derive": ""
+          },
+          "res_sprite": {
+            "complete": 0,
+            "credit": {
+              "primary": "",
+              "secondary": [],
+              "total": 1
+            },
+            "link": "",
+            "files": {},
+            "bounty": {},
+            "modified": "",
+            "pending": {},
+            "required": true,
+            "link_derive": ""
+          },
+          "canon": true,
+          "modreward": {},
+          "name": "Test",
+          "subgroups": {}
+        }
+      }
     }
   }
 }
