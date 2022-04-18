@@ -202,9 +202,11 @@
         },
         "link": "https://cdn.discordapp.com/attachments/899668565077139486/948531533935951892/portrait-0001.png",
         "modified": "2022-03-02 10:45:40.310465",
-        "pending": {},
+        "pending": {
+          "965522136603197451": 956851491174510622
+        },
         "required": true,
-        "link_derive": ""
+        "link_derive": "https://cdn.discordapp.com/attachments/956851508828307486/965522135365857350/portrait-0001-0000-0001.png"
       },
       "res_sprite": {
         "bounty": {},
